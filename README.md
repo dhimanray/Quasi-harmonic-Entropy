@@ -4,3 +4,4 @@ This repository contains codes to calculate conformational entropy of biomolecul
 
 The theoretical underpinning of these methods are descride in the following publication:
 Andricioaei, Ioan, and Martin Karplus. "On the calculation of entropy from covariance matrices of the atomic fluctuations." The Journal of Chemical Physics 115.14 (2001): 6289-6292. 
+https://aip.scitation.org/doi/abs/10.1063/1.1401821
