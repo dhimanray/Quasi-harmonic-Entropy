@@ -43,7 +43,7 @@ u.trajectory.add_transformations(transform)
 #write trajectories
 #discard first 5 ns (each frame = 10 ps)
 
-eqbm_time = 500 #1 ns
+eqbm_time = 500 
 
 t = np.arange(eqbm_time,4500,100)
 
